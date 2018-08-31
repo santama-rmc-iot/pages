@@ -1,1 +1,8 @@
 theme: jekyll-theme-cayman
+encoding: utf-8
+plugins:
+  - jekyll-github-metadata
+github: [metadata]
+lang: ja
+title: IoT活用研究会
+description: 中小企業診断士 三多摩支部

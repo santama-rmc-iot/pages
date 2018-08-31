@@ -1,37 +1,50 @@
-## Welcome to GitHub Pages
+---
+layout: default
+---
 
-You can use the [editor on GitHub](https://github.com/santama-rmc-iot/pages/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+## はじめに
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+こんにちは。中小企業診断士協会 三多摩支部 IoT活用研究会のフロントページになります。IoT活用研究会では、ビジネスに役立つようなIoT機器の使い方を研究し、発表、ゆくゆくはその内容を活用してもらえればという活動を行なっています。
 
-### Markdown
+## 定例会について
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+毎月 第1週 土曜日 13:00 ~ 
 
-```markdown
-Syntax highlighted code block
+場所 主に立教大学
 
-# Header 1
-## Header 2
-### Header 3
+ただし、都合により変わる場合もありますので、詳細は[三多摩支部ページ](http://www.santama-smeca.jp/activity/schedule)でご確認ください。
 
-- Bulleted
-- List
+## コミュニケーションツールなど
 
-1. Numbered
-2. List
+#### Slack
+やりとりを効率化するため[Slack](https://slack.com/intl/ja-jp/)を利用しています。
 
-**Bold** and _Italic_ and `Code` text
+slackでは、絵文字を使いましょう。相手の顔が見えないので、感情を表現することでどういう気持ちなのか伝えやすくなります。
 
-[Link](url) and ![Image](src)
-```
+ワークスペース：santama-rmc-iot
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+#### Dropbox
+ファイルのやりとりはDropboxを使ってます。
 
-### Jekyll Themes
+#### github
+必要であれば、コントリビューターに招待いたします。
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/santama-rmc-iot/pages/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+[開発資産置き場](https://github.com/orgs/santama-rmc-iot/dashboard)
 
-### Support or Contact
+#### appear.in
+オンラインミーティングができます。無料です。パソコン画面を共有できるので便利ですよ。
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+当研究会では、こちらの[アドレス](https://appear.in/santama-rmc-iot)を使います。
+
+## IoT初心者向けリンク
+
+1. まずはここから、アドバイザー今村さん推奨のオンライン講座。
+
+[スマートIoTシステム・ビジネス入門](https://lms.gacco.org/courses/course-v1:gacco+ga105+2018_07/about)
+
+## 最後に一言
+
+[![LGTM](https://www.lgtm.in/p/OvVE58pOp)](https://www.lgtm.in/i/OvVE58pOp)
+
+
+#### 問い合わせ先
